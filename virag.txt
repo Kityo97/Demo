@@ -1,2 +1,3 @@
 tulipan
-rózsa
+rozsa
+liliom
